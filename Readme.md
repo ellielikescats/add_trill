@@ -1,4 +1,4 @@
-<h1>Ornamentation Suggester [Trills] ***work in progress***</h1>
+<h1>Ornamentation Suggester [Trills]</h1>
 
 This project uses a CNN autoencoder model to generate trill suggestions from a midi input primer. 
 You can upload and convert your own MIDI data in _main.py_ and `model()` will generate a prediction of where a trill 
